@@ -1,4 +1,3 @@
-import re
 def CodelandUsernameValidation(str):
 
   # code goes here
